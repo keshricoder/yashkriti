@@ -2,9 +2,9 @@ body {
     font-family: Arial, Helvetica, sans-serif;
   /* background-color: #315E8D; */
    /* background-image: url(../images/aboutBg.jpg); */
-  background-attachment: fixed;
+/*   background-attachment: fixed;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: cover; */
   
   }
   
@@ -270,12 +270,6 @@ body {
 .whenyouvisit {
    padding-top: 25px;
 }
-
-
-
-
-
-
 
 /*flipcard start*/
 .flitskaart {
